@@ -1,0 +1,3 @@
+C:/Users/ayaro/CLionProjects/xBerry/cmake-build-debug/CMakeFiles/xBerry.dir
+C:/Users/ayaro/CLionProjects/xBerry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ayaro/CLionProjects/xBerry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
